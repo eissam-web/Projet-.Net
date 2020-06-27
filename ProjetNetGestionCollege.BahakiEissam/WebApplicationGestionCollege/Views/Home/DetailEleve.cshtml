@@ -1,0 +1,35 @@
+﻿@model WebApplicationGestionCollege.Models.EleveViewModel
+
+
+    <div class="jumbotron">
+        <h1>Detail de l'eleve</h1>
+
+        <p class="lead">
+            Nom : @Model.Nom
+        </p>
+        <p class="lead">
+            Prenom : @Model.Prenom
+        </p>
+        <p class="lead">
+            Notes : 
+            <div>
+                @foreach(var n in @Model.Notes)
+                {
+                    <p>@n.NoteObt</p>
+                }
+            </div>
+        </p>
+
+        <p class="lead">
+            Absences : 
+            <div>
+                @foreach(var a in @Model.Absences)
+                {
+                    <p>@a.DateAbsence</p>
+                }
+            </div>
+        </p>
+
+        <p><a href="@Url.Action("ListeEleves", "Home")">Retour</a></p>
+
+    </div>

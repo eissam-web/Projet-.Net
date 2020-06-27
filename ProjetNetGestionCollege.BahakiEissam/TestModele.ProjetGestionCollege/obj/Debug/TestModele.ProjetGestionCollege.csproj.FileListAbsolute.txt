@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\TestModele.ProjetGestionCollege.exe.config
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\TestModele.ProjetGestionCollege.exe
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\TestModele.ProjetGestionCollege.pdb
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\Modele.GestionCollege.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\Modele.GestionCollege.pdb
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\Modele.GestionCollege.dll.config
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\obj\Debug\TestModele.ProjetGestionCollege.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\obj\Debug\TestModele.ProjetGestionCollege.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\obj\Debug\TestModele.ProjetGestionCollege.csproj.CopyComplete
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\obj\Debug\TestModele.ProjetGestionCollege.exe
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\obj\Debug\TestModele.ProjetGestionCollege.pdb
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\MaBaseDeDonneesGestionCollege.mdf
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\TestModele.ProjetGestionCollege\bin\Debug\MaBaseDeDonneesGestionCollege_log.ldf

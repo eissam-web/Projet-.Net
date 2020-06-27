@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\Modele.GestionCollege.dll.config
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\Modele.GestionCollege.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\Modele.GestionCollege.pdb
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\obj\Debug\Modele.GestionCollege.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\obj\Debug\Modele.GestionCollege.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\obj\Debug\Modele.GestionCollege.csproj.CopyComplete
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\obj\Debug\Modele.GestionCollege.dll
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\obj\Debug\Modele.GestionCollege.pdb
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\MaBaseDeDonneesGestionCollege.mdf
+C:\Users\Hp\Desktop\Cours\.Net\Projet\ProjetNetGestionCollege.BahakiEissam\Modele.GestionCollege\bin\Debug\MaBaseDeDonneesGestionCollege_log.ldf

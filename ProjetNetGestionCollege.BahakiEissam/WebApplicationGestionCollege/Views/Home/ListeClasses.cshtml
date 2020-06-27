@@ -1,0 +1,29 @@
+﻿@model List<WebApplicationGestionCollege.Models.ClasseViewModel>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<h2>Liste des Classes</h2>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>Etablissement</th>
+            <th>Niveau de la Classe</th>
+            <th>Liste des Eleves</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var classes in Model)
+        {
+            <tr>
+                <td>@classes.NomEtablissement</td>
+                <td>@classes.Niveau</td>
+                <td><a href="@Url.Action("DetailClasse", "Home", new { id = classes.ClasseId})">Liste des Eleves</a></td>
+            </tr>
+        }
+    </tbody>
+
+</table>

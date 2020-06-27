@@ -1,0 +1,30 @@
+﻿@model List<WebApplicationGestionCollege.Models.EleveViewModel>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<h2>ListeEleves</h2>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>Nom</th>
+            <th>Prenom</th>
+            <th>Detail</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var eleves in Model)
+        {
+            <tr>
+                <td>@eleves.Nom</td>
+                <td>@eleves.Prenom</td>
+                <td><a href="@Url.Action("DetailEleve", "Home", new { id = eleves.idEleve })">Detail</a></td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

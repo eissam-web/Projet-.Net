@@ -1,0 +1,25 @@
+﻿@model WebApplicationGestionCollege.Models.ClasseViewModel
+
+
+<div class="jumbotron">
+    <h1>Detail de la classe</h1>
+
+    <p class="lead">
+        Etablissement : @Model.NomEtablissement
+    </p>
+    <p class="lead">
+        Niveau : @Model.Niveau
+    </p>
+    <p class="lead">
+        Eleves :
+        <div>
+            @foreach (var n in @Model.Eleves)
+            {
+                <p>@n.Nom @n.Prenom</p>
+            }
+        </div>
+    </p>
+
+    <p><a href="@Url.Action("ListeClasses", "Home")">Retour</a></p>
+
+</div>
